@@ -1,0 +1,15 @@
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\bin\Debug\TestGitBush.exe.config
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\bin\Debug\TestGitBush.exe
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\bin\Debug\TestGitBush.pdb
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\TestGitBush.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\App.g.cs
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\TestGitBush_MarkupCompile.cache
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\TestGitBush_MarkupCompile.lref
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\MainWindow.baml
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\TestGitBush.g.resources
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\TestGitBush.Properties.Resources.resources
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\TestGitBush.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\TestGitBush.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\TestGitBush.exe
+C:\Users\Алексей\source\repos\TestGitBush\TestGitBush\obj\Debug\TestGitBush.pdb
